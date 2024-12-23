@@ -1,4 +1,4 @@
-// tkae the score from user and print the grade
+// take the score from user and print the grade
 
 // let score = prompt ("Enter your Score to Check Grades : ")
 let score = 45;
