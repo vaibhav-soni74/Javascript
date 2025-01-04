@@ -11,6 +11,7 @@ class ToyotaCar {
         this.brandName = brand;
     }
 }
+// class in javascript means :  a blueprint for creating objects with predefined properties and methods. It simplifies object creation and management, especially with inheritance and object-oriented programming concepts
 
 let fortuner = new ToyotaCar();
 fortuner.setBrand("fortuner");
